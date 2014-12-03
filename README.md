@@ -9,7 +9,7 @@ Source: https://github.com/johnmalcolm101/Auto-Seller/<br>
 This application was created in eclipse and uses the javax.swing package (https://docs.oracle.com/) for the GUI and SQlite (http://www.sqlite.org) for a database. 
 
 <b>Note RE: Java Project Assignment: <br></b>
-The program only utilizes the autoseller package. The classes in the cars package are not currently being referenced but can be used for future development and demonstate my knowledge of polymorphism, inheritance, abstract classes, final classes, static variables, the use of the super keyword and more. The application classes that are in use are the ones in the autoseller package, these classes demonstrate other abilites but I thought id also include the cars package seen as it includes a lot of what we have covered the semester.
+The program only utilizes the autoseller package. The classes in the cars package are not currently being referenced but can be used for future development and demonstate my knowledge of polymorphism, inheritance, abstract classes, final classes, static variables, the use of the super keyword and more. The application classes that are in use are the ones in the autoseller package, these classes demonstrate other abilites but I thought i would also include the cars package seen as it includes a lot of what we have covered this semester.
 
 <h2>Contents:</h2>
 
